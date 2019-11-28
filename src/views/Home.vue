@@ -1,7 +1,8 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div>这是我们的主页</div>
+    <el-button @click="ss">登出</el-button>
   </div>
 </template>
 
@@ -13,6 +14,13 @@ export default {
   name: 'home',
   components: {
     HelloWorld
+  },
+  methods:{
+    ss:function(){
+      localStorage.removeItem("Flag")
+      localStorage.removeItem("lastTime")
+       this.$router.push("/login");
+    }
   }
 }
 </script>
