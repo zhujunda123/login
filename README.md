@@ -17,4 +17,9 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
 # login
+
+http://localhost:8080/home
+
+http://localhost:8080/login
