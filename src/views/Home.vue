@@ -1,6 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
+    <di>343432<div>
   <div>这是我们的sss</div>
     <div>这是我们的1111</div>
   <div>这是我们的222主页</div>
