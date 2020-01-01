@@ -7,7 +7,7 @@
   <div>这是我们的222主页</div>
     <el-button @click="ss">登出</el-button>
        <div>222222222</div>
-        <div>这是我们的1111</div>
+        <div>这是我们的222</div>
   </div>
    
 
