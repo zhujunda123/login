@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
-  <div>这是我们的主页</div>
+  <div>这是我们的222主页</div>
     <el-button @click="ss">登出</el-button>
   </div>
 </template>
