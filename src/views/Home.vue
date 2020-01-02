@@ -3,6 +3,7 @@
     <img alt="Vue logo" src="../assets/logo.png">
 
     <el-button @click="ss">登出</el-button>
+    <div>i love zjd111</div>
   
   </div>
    
